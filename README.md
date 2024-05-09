@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm R4Sput1n</h1>
-<h3 align="center">A begginer Python developer</h3>
+<h3 align="center">A begginer Python developer and currently a QA engineer</h3>
 
-- 🔭 I’m currently working on [book store app](https://github.com/R4Sput1n/Book-Store)
+- 🔭 I’m currently working on [OpenDose project](https://opendose.org/)
 
 - 🌱 I’m currently learning **Django and Django REST framework**
 
